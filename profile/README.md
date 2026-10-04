@@ -13,6 +13,7 @@
   <a href="https://www.facebook.com/argusic"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-argusic-d9a441?style=flat-square&labelColor=131a2b&logo=facebook&logoColor=d9a441" /></a>
   <a href="https://www.linkedin.com/company/argusiccom/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-argusiccom-d9a441?style=flat-square&labelColor=131a2b&logo=linkedin&logoColor=d9a441" /></a>
   <a href="https://github.com/argusic"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-argusic-d9a441?style=flat-square&labelColor=131a2b&logo=github&logoColor=d9a441" /></a>
+  <a href="https://huggingface.co/argusic"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-argusic-d9a441?style=flat-square&labelColor=131a2b&logo=huggingface&logoColor=d9a441" /></a>
 </p>
 
 ---
